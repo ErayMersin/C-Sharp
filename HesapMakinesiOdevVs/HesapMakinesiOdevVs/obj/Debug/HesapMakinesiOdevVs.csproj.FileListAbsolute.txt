@@ -1,0 +1,11 @@
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiOdevVs.csproj.AssemblyReference.cache
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiOdevVs.csproj.SuggestedBindingRedirects.cache
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiNew.Form1.resources
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiOdevVs.Properties.Resources.resources
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiOdevVs.csproj.GenerateResource.cache
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiOdevVs.csproj.CoreCompileInputs.cache
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\bin\Debug\HesapMakinesiOdevVs.exe.config
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\bin\Debug\HesapMakinesiOdevVs.exe
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\bin\Debug\HesapMakinesiOdevVs.pdb
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiOdevVs.exe
+C:\Users\eray\source\repos\HesapMakinesiOdevVs\HesapMakinesiOdevVs\obj\Debug\HesapMakinesiOdevVs.pdb
